@@ -3,22 +3,22 @@
   top: 0;
   right: 0
 }
-#menu {
+#nav-bar {
   list-style: none;
   margin: 0;
   padding: 5;
   display: flex;
   background-color: black;
 }
-#menu li {
+#nav-bar li {
   margin: 0;
 }
-#menu a {
+#nav-bar a {
   display: block;
   padding: 15px 20px;
   color: white;
   text-decoration: none;
 }
-#menu a:hover {
+#nav-bar a:hover {
   background-color: gray;
 }
