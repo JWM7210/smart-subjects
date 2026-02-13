@@ -10,3 +10,6 @@
   display: flex;
   background-color: red;
 }
+#menu li {
+  margin: 0;
+}
